@@ -1,16 +1,107 @@
-## Hi there 👋
+# Hi, I'm Abhishek Singh 👋
 
-<!--
-**abhi002shek/abhi002shek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer · SRE · Platform Engineer** — 3 years of production infrastructure experience at
+**Lloyds Banking Group**, one of the UK's most regulated banking environments.
 
-Here are some ideas to get you started:
+I build CI/CD pipelines developers trust, Kubernetes clusters that stay up,
+Terraform infrastructure that doesn't drift, and Python automation that eliminates
+work that should never have been manual.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Cloud** | AWS (EC2, EKS, ECS, RDS, S3, IAM, Lambda, CloudFront, Secrets Manager, Route53) |
+| **IaC** | Terraform · Ansible · CloudFormation |
+| **CI/CD** | Jenkins · GitHub Actions · GitLab CI · ArgoCD |
+| **Containers** | Docker · Kubernetes (EKS) · Helm |
+| **Observability** | Prometheus · Grafana · ELK/OpenSearch · CloudWatch |
+| **Scripting** | Python · Bash · Shell |
+| **Security** | IAM least-privilege · RBAC · Secrets Manager · Pipeline security gates |
+| **OS** | Linux (Ubuntu, RHEL) · Networking (VPC, DNS, TCP/IP, Nginx) |
+
+---
+
+## 🚀 Featured Project
+
+### [3-Tier Cloud-Native DevSecOps Platform](https://github.com/abhi002shek/3-tier-devsecops-project)
+
+A production-grade platform built from scratch — no tutorials, no guided labs.
+
+- **AWS infrastructure via Terraform** — VPC, EKS, RDS, S3, IAM, CloudFront, Lambda, SNS/SQS — zero ClickOps
+- **Full CI/CD** on Jenkins + GitHub Actions — Docker builds, ECR push, Helm deploy to EKS, auto rollback on failure
+- **3-tier microservices on Kubernetes** — HPA auto-scaling, rolling updates, liveness/readiness probes
+- **Full observability** — Prometheus + Grafana (SLI/SLO dashboards), Alertmanager, ELK log aggregation
+- **DevSecOps** — IAM scoped roles, K8s RBAC, secrets isolation, automated security scanning in pipeline
+
+---
+
+## 💼 Experience
+
+**DevOps Engineer / Operations Analyst** @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) *(Mar 2022 – Jan 2025)*
+- Designed and built end-to-end CI/CD pipelines on Jenkins and GitHub Actions — commit to production, zero manual steps
+- Authored Terraform modules covering VPC, EC2, EKS, IAM, RDS, ELB, S3 — reusable across teams, environment drift eliminated
+- Owned EKS clusters in production — Helm charts, RBAC, network policies, pod-level fault isolation
+- Implemented observability stack (CloudWatch, Prometheus, Grafana, ELK) — every alert actionable, on-call noise reduced
+- Passed banking-sector security audit without a single finding
+- Wrote runbooks detailed enough that junior engineers resolved incidents independently
+
+---
+
+## 📊 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi002shek&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi002shek&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-singh-2b96961a0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-abhi002sheks-projects.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsabhishek1531@gmail.com)
+
+---
+
+*📍 Hyderabad, India · Available immediately · Open to DevOps / SRE / Cloud / Platform Engineer roles*
+```
+
+---
+
+## ✅ LINKEDIN HEADLINE — COPY THIS
+```
+DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD | 3 Yrs Production @ Lloyds Banking Group | Open to SRE · Cloud · Platform Roles
+```
+
+---
+
+## ✅ LINKEDIN ABOUT SECTION — COPY THIS
+```
+DevOps and Site Reliability Engineer with 3 years of production experience at Lloyds 
+Banking Group — one of the UK's most heavily regulated banking environments.
+
+I've built CI/CD pipelines from scratch, provisioned multi-environment AWS infrastructure 
+with Terraform, owned Kubernetes (EKS) clusters in production, and implemented 
+observability stacks that made on-call rotations actually manageable.
+
+What that environment taught me: security is architecture, not an afterthought. 
+Documentation is a deliverable. Reliability is an engineering discipline.
+
+⚙️ Core stack:
+AWS (EC2, EKS, RDS, S3, IAM, Lambda, CloudFront, Secrets Manager) · Terraform · Ansible · 
+Jenkins · GitHub Actions · ArgoCD · Docker · Kubernetes · Helm · 
+Prometheus · Grafana · ELK/OpenSearch · Python · Bash · Linux
+
+🏆 Highlights:
+- Passed a banking-sector security audit without a single finding
+- Built a Terraform module library that eliminated infrastructure drift as a recurring incident source
+- Authored runbooks and post-mortems detailed enough that junior engineers resolved incidents independently
+- Tuned Prometheus/Grafana alerting until every alert was actionable — reduced on-call noise significantly
+
+🚀 Currently building: a production-grade 3-Tier Cloud-Native DevSecOps platform on AWS/EKS
+(Terraform + Jenkins/GitHub Actions + Prometheus/Grafana + ELK) — see GitHub for full detail.
+
+📍 Hyderabad · Available immediately · Open to DevOps, SRE, Platform Engineer, Cloud Infrastructure roles
+(Hyderabad, Bangalore, Noida, Chennai or Remote)
