@@ -28,7 +28,7 @@ work that should never have been manual.
 
 ### [3-Tier Cloud-Native DevSecOps Platform](https://github.com/abhi002shek/3-tier-devsecops-project)
 
-A production-grade platform built from scratch — no tutorials, no guided labs.
+A production-grade platform built from scratch.
 
 - **AWS infrastructure via Terraform** — VPC, EKS, RDS, S3, IAM, CloudFront, Lambda, SNS/SQS — zero ClickOps
 - **Full CI/CD** on Jenkins + GitHub Actions — Docker builds, ECR push, Helm deploy to EKS, auto rollback on failure
