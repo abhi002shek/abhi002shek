@@ -24,7 +24,19 @@ work that should never have been manual.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [EventPulse Secure DevOps Platform](https://github.com/abhi002shek/eventpulse)
+
+A secure event-booking API evolved into a signed, policy-controlled AWS EKS deployment.
+
+- **FastAPI + PostgreSQL application** — typed APIs, Alembic migrations, health/readiness checks, and transactional booking flow
+- **Concurrency-safe booking logic** — PostgreSQL row-level locking prevents overselling during simultaneous ticket requests
+- **DevSecOps pipeline** — GitHub Actions, Gitleaks, Trivy, SonarQube, SBOM/provenance, GHCR publishing, and Cosign keyless signing
+- **Kubernetes packaging** — Helm chart with immutable image digests, migration/seed Jobs, probes, HPA, PDB, NetworkPolicies, and hardened pods
+- **AWS validation** — Terraform-managed VPC, private EKS nodes, private RDS, Secrets Manager, ALB demo access, Prometheus/Grafana, CloudWatch, Kyverno, and resilience testing
+
+---
 
 ### [3-Tier Cloud-Native DevSecOps Platform](https://github.com/abhi002shek/3-tier-devsecops-project)
 
