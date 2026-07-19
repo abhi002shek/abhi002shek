@@ -40,7 +40,7 @@ A production-grade platform built from scratch.
 
 ## 💼 Experience
 
-**DevOps Engineer / Operations Analyst** @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) *(Mar 2022 – Jan 2025)*
+**DevOps Engineer / Operations Analyst** @ [Lloyds Banking Group](https://www.lloydsbankinggroup.com) *(Feb 2022 – Jan 2025)*
 - Designed and built end-to-end CI/CD pipelines on Jenkins and GitHub Actions — commit to production, zero manual steps
 - Authored Terraform modules covering VPC, EC2, EKS, IAM, RDS, ELB, S3 — reusable across teams, environment drift eliminated
 - Owned EKS clusters in production — Helm charts, RBAC, network policies, pod-level fault isolation
